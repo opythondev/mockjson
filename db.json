@@ -2,13 +2,13 @@
   "available": [
     {
       "status": true,
-      nearest_date: ""
+      "nearest_date": ""
     }
   ],
   "not_available": [
     {
       "status": false,
-      nearest_date: "01.01.23",
+      "nearest_date": "01.01.23",
     }
   ],
   "comments": [
