@@ -1,10 +1,10 @@
 {
   "available": [{
-      "status": true,
+      "status": 1,
       "nearest_date": ""
     }],
   "not_available": [{
-      "status": false,
+      "status": 0,
       "nearest_date": "01.01.23"
     }],
   "comments": [
