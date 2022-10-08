@@ -1,9 +1,11 @@
 {
   "available": [{
+      "id": 1,
       "status": 1,
       "nearest_date": ""
     }],
   "not_available": [{
+      "id": 1,
       "status": 0,
       "nearest_date": "01.01.23"
     }],
