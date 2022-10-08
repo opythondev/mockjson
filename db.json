@@ -1,12 +1,12 @@
 {
-  "available": {
+  "available": [{
       "status": true,
       "nearest_date": ""
-    },
-  "not_available": {
+    }],
+  "not_available": [{
       "status": false,
       "nearest_date": "01.01.23"
-    },
+    }],
   "comments": [
     {
       "id": 1,
